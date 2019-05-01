@@ -8,4 +8,4 @@ console.log('dev fixxxxx');
 
 console.log('fixbug fix');
 
-console.log('master commit');
+console.log('dev change');

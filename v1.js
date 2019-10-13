@@ -21,5 +21,3 @@ console.log('dev test cherry-pick seconds');
 console.log('rebase first');
 
 console.log('rebase second');
-
-console.log('rebase third');

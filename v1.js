@@ -17,5 +17,3 @@ console.log('dev change seconds');
 console.log('dev test cherry-pick');
 
 console.log('dev test cherry-pick seconds');
-
-console.log('rebase first');
